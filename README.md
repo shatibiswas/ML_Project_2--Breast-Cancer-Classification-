@@ -14,10 +14,11 @@ To develop a machine learning model that predicts whether a breast tumor is mali
 Breast cancer is one of the most common cancers among women worldwide. Early diagnosis and accurate classification of breast cancer tumors as either malignant (cancerous) or benign (non-cancerous) are critical for effective treatment and improved survival rates.
 
 
+# **Project Description:**
 
+This project involves predicting whether breast cancer is malignant or benign using logistic regression.
 
-
-**This project aims to develop a machine learning-based classification system using Logistic Regression to predict the nature of breast tumors based on input features derived from digitized images of fine needle aspirates (FNA) of breast masses.**
+**To elavorate this, this project aims to develop a machine learning-based classification system using Logistic Regression to predict the nature of breast tumors based on input features derived from digitized images of fine needle aspirates (FNA) of breast masses.**
 
 ## Key Steps
 - Data preprocessing and cleaning
@@ -47,10 +48,6 @@ By leveraging the Breast Cancer Wisconsin Diagnostic Dataset from sklearn.datase
 **# Technologies:**
 
 Python, NumPy, Pandas, Scikit-learn
-
-# **Project Description:**
-
-This project involves predicting whether breast cancer is malignant or benign using logistic regression.
 
 # **Data Collection & Loading:**
 
