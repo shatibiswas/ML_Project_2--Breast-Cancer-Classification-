@@ -19,33 +19,28 @@ Breast cancer is one of the most common cancers among women worldwide. Early dia
 
 **This project aims to develop a machine learning-based classification system using Logistic Regression to predict the nature of breast tumors based on input features derived from digitized images of fine needle aspirates (FNA) of breast masses.**
 
+## Key Steps
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Model training using various algorithms
+- Model evaluation and performance comparison
 
-
-
+## Tools & Libraries Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- Jupyter Notebook
 
 By leveraging the Breast Cancer Wisconsin Diagnostic Dataset from sklearn.datasets, the objective is to:
 
-
-
-
-
 --> Train a logistic regression model on labeled data,
-
-
 
 --> Evaluate its accuracy,
 
-
-
 --> Build a predictive system that can classify new tumor samples,
 
-
-
 --> Aid medical professionals in early detection and diagnosis.
-
-
-
-
 
 **This solution provides a lightweight, interpretable, and efficient tool suitable for medical screening applications.**
 
@@ -184,19 +179,8 @@ ROC Curve and AUC:
 **In summary:** The logistic regression model performed exceptionally well on this dataset, achieving high accuracy, precision, recall, and F1 scores on both the training and test sets. The confusion matrix shows a low number of misclassifications, and the ROC curve with an AUC of 1.00 indicates excellent discriminatory power.
 
 # **#7. Building a Predictive System:**
+This system provides a reliable tool for aiding medical professionals in early detection and diagnosis<img width="1653" height="76" alt="image" src="https://github.com/user-attachments/assets/4d1d9bde-6976-4650-9efa-c8210039a981" />
 
-## Key Steps
-- Data preprocessing and cleaning
-- Exploratory Data Analysis (EDA)
-- Model training using various algorithms
-- Model evaluation and performance comparison
-
-## Tools & Libraries Used
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Jupyter Notebook
 
 ## File
 - `ML_project2_breast_cancer_prediction_shati_biswas.ipynb`: The Jupyter notebook containing all code and analysis.
